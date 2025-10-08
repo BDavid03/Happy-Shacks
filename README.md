@@ -1,5 +1,5 @@
 # Happy-Shacks
-HappyShacksNFT Project, launched in March 2021. It was my first experience with solidity and on-chain interactions.
+HappyShacksNFT Project, launched in March 2022. It was my first experience with solidity and on-chain interactions.
 
 
 Etherscan Smart Contract - Actively revising to reduce Gas Fees.
