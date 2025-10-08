@@ -7,6 +7,7 @@ Etherscan Smart Contract - Actively revising to reduce Gas Fees.
 https://etherscan.io/address/0x25386ad85769cc2d1d1807b08b2c5a07198b609e#code
 
 Opensea Collection:
+
 https://opensea.io/collection/happyshacksnft
 
 
