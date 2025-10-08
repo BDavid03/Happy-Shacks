@@ -2,7 +2,7 @@
 HappyShacksNFT Project, launched in March 2022. It was my first experience with solidity and on-chain interactions.
 
 
-Etherscan Smart Contract - Actively revising to reduce Gas Fees.
+Etherscan Smart Contract - Actively revising to reduce Gas Fees by implementing modularisation
 
 https://etherscan.io/address/0x25386ad85769cc2d1d1807b08b2c5a07198b609e#code
 
