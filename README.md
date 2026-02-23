@@ -13,4 +13,4 @@ https://opensea.io/collection/happyshacksnft
 
 My goal with this project is to continue to improve it with time. 
 
-I am of the belief that digital finance should be taken seriously. Real-world use of blockchain/token is material, but simply unrealised.
+I am of the belief that digital finance should be taken seriously. Real-world use of blockchain/token is material, but unrealised.
